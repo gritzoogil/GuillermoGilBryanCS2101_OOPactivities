@@ -30,7 +30,7 @@ public class MultiplicationTable {
         table = new int[size][size]; 
         
         fillMultiplicationTable(table); // fill
-        printMultiplicationTable(table); // print
+        System.out.println(table[11][11]);
 
     }
 }

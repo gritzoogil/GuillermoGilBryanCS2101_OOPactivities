@@ -14,7 +14,6 @@ public class GettingInputs {
 		// year
 		System.out.println("Enter the year: ");
 		year = scanner.nextInt();
-		scanner.nextLine();
 		
 		// genre
 		System.out.println("Enter the genre: ");
